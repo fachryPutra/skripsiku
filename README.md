@@ -1,0 +1,2 @@
+# skripsiku
+program
